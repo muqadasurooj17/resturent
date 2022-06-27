@@ -6,5 +6,4 @@ What I learned:
 2)Responsive Web development.
 3)Smooth scrolling by reactScroll
 4)UserFriendly UI
-5)Source code on GitHub link: https://lnkd.in/d7Frqe4G
-6) Deployed on Netlify link:https://lnkd.in/dMKMHQBN
+5) Deployed on Netlify link:https://foodieresturentapp.netlify.app/
